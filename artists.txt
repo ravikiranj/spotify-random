@@ -1,40 +1,44 @@
-beatles
-led zeppelin
-radiohead
-grizzly bear
-tame impala
-deerhunter
-gorillaz
-youth lagoon
-yngwie malmsteen
-bach
-beethoven
-mozart
-piano
-chopin
-savages
-smiths
-joy division
-travis
 arcade fire
 arctic monkeys
+bach
+beatles
+beethoven
 beirut
-bon iver
-jack white
-white stripes
-fleet foxes
-dire straits
-phosphorescent
-phoenix
-red hot chili peppers
 bob dylan
-david bowie
-john williams
+bon iver
+chopin
 classical guitar
-the killers
-nirvana
+david bowie
+deerhunter
+dire straits
+electric light orchestra
+fleet foxes
+gentle
+gorillaz
+grizzly bear
 guns n roses
+jack white
+john williams
+joy division
+king crimson
+led zeppelin
+mozart
+nirvana
+phoenix
+phosphorescent
+piano
 pink floyd
 queen
+radiohead
+red hot chili peppers
+savages
+smiths
 st. vincent
+tame impala
+the killers
+travis
 vampire weekend
+white stripes
+yes
+yngwie malmsteen
+youth lagoon
